@@ -1,0 +1,1 @@
+CSE 437 [Data Science: Coding with Real World Data] project on 'Hate Speech and Offensive Language Detection from Twitter Dataset' with the application of a suitable XAI method to interpret the results of used ML models.
